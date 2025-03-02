@@ -1,6 +1,3 @@
-
-### **Profil GitHub Optimisé**
-
 **👋 Bonjour, je suis Kevin Kefra !**
 
 Je suis un développeur **Fullstack** passionné par la création d'applications web performantes et intuitives. Avec une expertise en **Python**, **Node.js**, **JavaScript/TypeScript**, **React.js**, **Next.js**, je m'efforce constamment d'améliorer mes compétences tout en créant des solutions innovantes.
